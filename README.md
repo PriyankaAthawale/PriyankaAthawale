@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyankaAthawale
-- 👀 I’m interested data science
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on with the companies
+- 💞️ I’m looking to collaborate with the companies
 - 📫 How to reach me through linkdine
 
 <!---
